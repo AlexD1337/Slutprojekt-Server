@@ -7,9 +7,9 @@ Clone Git repo
 <br/>
 1.run Terminal
 <br/>
-1.run npm install
+2.run npm install
 <br/>
-2.run npm start 
+3.run npm start 
 
 ### Postman tutorial
 Request       | Route                                             | Function          |
