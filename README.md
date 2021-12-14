@@ -4,9 +4,9 @@
 
 ### Hur man kör programmet
 Clone Git repo
-/n
+<br/>
 1.run npm install
-/n
+<br/>
 2.run npm start 
 
 ### Postman tutorial
