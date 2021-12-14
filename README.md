@@ -5,6 +5,8 @@
 ### Hur man kör programmet
 Clone Git repo
 <br/>
+1.run Terminal
+<br/>
 1.run npm install
 <br/>
 2.run npm start 
