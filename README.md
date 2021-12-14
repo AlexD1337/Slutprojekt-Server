@@ -4,9 +4,10 @@
 
 ### Hur man kör programmet
 Clone Git repo
-
-run npm install
-run npm start 
+/n
+1.run npm install
+/n
+2.run npm start 
 
 ### Postman tutorial
 Request       | Route                                             | Function          |
